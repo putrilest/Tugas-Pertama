@@ -1,0 +1,12 @@
+{
+  "name": "Tugas-Pertama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mulai": "node soal-1.js && node soal-2.js && echo \"Berhasil\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
